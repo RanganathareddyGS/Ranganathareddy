@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranganathareddygs&label=Profile%20views&color=0e75b6&style=flat" alt="ranganathareddygs" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Store](https://github.com/RanganathareddyGS/E-Commerce-Store)
+- 🔭 I’m currently working on [E-Commerce Store Website Development](https://github.com/RanganathareddyGS/E-Commerce-Store)
 
 - 🌱 I’m currently learning **Java,Spring Boot,Micro Services**
 
