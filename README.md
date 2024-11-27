@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [E-Commerce Store Website Development](https://github.com/RanganathareddyGS/E-Commerce-Store)
 
-- 🌱 I’m currently learning **Java,Spring Boot,Micro Services**
+- 🌱 I’m currently learning **Java, Spring Boot, Micro Services**
 
 - 👯 I’m looking to collaborate on [Coorg Tourism Website Development](https://coorgtourismguide.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RanganathareddyGS](https://github.com/RanganathareddyGS)
 
-- 💬 Ask me about **Java,Spring frameworks**
+- 💬 Ask me about **Java, Sql, Spring frameworks[MVC,BOOT]**
 
 - 📫 How to reach me **reddyranganath67@gmail.com**
 
